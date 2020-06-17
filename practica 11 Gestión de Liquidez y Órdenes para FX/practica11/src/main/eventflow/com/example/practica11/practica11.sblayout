@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><application-layout>
+    <component name="Deustche">
+        <param name="gui:x" value="119"/>
+        <param name="gui:y" value="132"/>
+    </component>
+    <component name="Manual">
+        <param name="gui:x" value="119"/>
+        <param name="gui:y" value="226"/>
+    </component>
+    <component name="Nomura">
+        <param name="gui:x" value="119"/>
+        <param name="gui:y" value="38"/>
+    </component>
+    <component name="Order_entry">
+        <param name="gui:x" value="119"/>
+        <param name="gui:y" value="-84"/>
+    </component>
+    <component name="Ask_liquidity">
+        <param name="gui:x" value="527"/>
+        <param name="gui:y" value="-122"/>
+        <param name="gui:width" value="80"/>
+        <param name="gui:height" value="56"/>
+    </component>
+    <component name="Bid_liquidity">
+        <param name="gui:x" value="527"/>
+        <param name="gui:y" value="206"/>
+        <param name="gui:width" value="80"/>
+        <param name="gui:height" value="56"/>
+    </component>
+    <component name="Ask_ticks_updater">
+        <param name="gui:x" value="694"/>
+        <param name="gui:y" value="-172"/>
+        <param name="gui:bends:1" value="625,8;661,-142"/>
+    </component>
+    <component name="Bid_ticks_updater">
+        <param name="gui:x" value="694"/>
+        <param name="gui:y" value="-47"/>
+        <param name="gui:bends:1" value="656,-12;656,-17"/>
+    </component>
+    <component name="Buy_machine_engine">
+        <param name="gui:x" value="537"/>
+        <param name="gui:y" value="-266"/>
+    </component>
+    <component name="Order_Site_Splitter">
+        <param name="gui:x" value="350"/>
+        <param name="gui:y" value="-37"/>
+        <param name="gui:bends:1" value="320,-44;328,-7"/>
+    </component>
+    <component name="Pre_tranding_filter">
+        <param name="gui:x" value="229"/>
+        <param name="gui:y" value="-84"/>
+    </component>
+    <component name="Sell_machine_engine">
+        <param name="gui:x" value="555"/>
+        <param name="gui:y" value="69"/>
+    </component>
+    <component name="Tick_cleansing">
+        <param name="gui:x" value="350"/>
+        <param name="gui:y" value="132"/>
+    </component>
+    <component name="Union">
+        <param name="gui:x" value="229"/>
+        <param name="gui:y" value="132"/>
+        <param name="gui:bends:1" value="194,68;214,152"/>
+        <param name="gui:bends:3" value="207,256;219,172"/>
+    </component>
+    <component name="tick_spliter">
+        <param name="gui:x" value="537"/>
+        <param name="gui:y" value="-32"/>
+        <param name="gui:bends:1" value="472,152;510,-2"/>
+    </component>
+    <component name="Ask_Updater_Output">
+        <param name="gui:x" value="805"/>
+        <param name="gui:y" value="-172"/>
+    </component>
+    <component name="Ask_matched_liquidity">
+        <param name="gui:x" value="694"/>
+        <param name="gui:y" value="-266"/>
+    </component>
+    <component name="Bid_Updater_Output">
+        <param name="gui:x" value="805"/>
+        <param name="gui:y" value="-47"/>
+    </component>
+    <component name="Bid_matched_liquidity">
+        <param name="gui:x" value="694"/>
+        <param name="gui:y" value="80"/>
+    </component>
+    <component name="Discarded_ticks">
+        <param name="gui:x" value="537"/>
+        <param name="gui:y" value="296"/>
+        <param name="gui:bends:1" value="485,172;523,326"/>
+    </component>
+    <component name="reject_Output">
+        <param name="gui:x" value="350"/>
+        <param name="gui:y" value="-131"/>
+        <param name="gui:bends:1" value="320,-64;328,-101"/>
+    </component>
+</application-layout>
