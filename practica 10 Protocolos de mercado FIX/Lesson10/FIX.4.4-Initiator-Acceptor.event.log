@@ -1,0 +1,204 @@
+20191228-01:31:13: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-01:31:13: Created session: FIX.4.4:Initiator->Acceptor
+20191228-01:31:15: Initiated logon request
+20191228-01:31:15: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-01:31:15: Received logon
+20191228-01:34:41: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-01:34:41: Created session: FIX.4.4:Initiator->Acceptor
+20191228-01:34:44: java.net.ConnectException during connection to 127.0.0.1/127.0.0.1:10000: java.net.ConnectException: Connection refused: no further information (Next retry in 30000 milliseconds)
+20191228-01:35:15: java.net.ConnectException during connection to 127.0.0.1/127.0.0.1:10000: java.net.ConnectException: Connection refused: no further information (Next retry in 30000 milliseconds)
+20191228-01:35:17: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-01:35:17: Created session: FIX.4.4:Initiator->Acceptor
+20191228-01:35:20: java.net.ConnectException during connection to 127.0.0.1/127.0.0.1:10000: java.net.ConnectException: Connection refused: no further information (Next retry in 30000 milliseconds)
+20191228-01:35:45: Pending connection not established after 2003 ms.
+20191228-01:35:46: java.net.ConnectException during connection to 127.0.0.1/127.0.0.1:10000: java.net.ConnectException: Connection refused: no further information (Next retry in 30000 milliseconds)
+20191228-01:35:50: Pending connection not established after 2003 ms.
+20191228-01:35:51: java.net.ConnectException during connection to 127.0.0.1/127.0.0.1:10000: java.net.ConnectException: Connection refused: no further information (Next retry in 30000 milliseconds)
+20191228-01:36:15: Pending connection not established after 2002 ms.
+20191228-01:36:16: java.net.ConnectException during connection to 127.0.0.1/127.0.0.1:10000: java.net.ConnectException: Connection refused: no further information (Next retry in 30000 milliseconds)
+20191228-01:36:45: java.net.ConnectException during connection to 127.0.0.1/127.0.0.1:10000: java.net.ConnectException: Connection refused: no further information (Next retry in 30000 milliseconds)
+20191228-01:37:10: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-01:37:10: Created session: FIX.4.4:Initiator->Acceptor
+20191228-01:37:12: Initiated logon request
+20191228-01:37:12: quickfix.SessionException MsgSeqNum too low, expecting 14 but received 1
+20191228-01:37:12: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:37:12: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-01:37:12: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-01:37:14: Initiated logon request
+20191228-01:37:14: quickfix.SessionException MsgSeqNum too low, expecting 14 but received 1
+20191228-01:37:14: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:37:14: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-01:37:14: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-01:37:42: Initiated logon request
+20191228-01:37:42: quickfix.SessionException MsgSeqNum too low, expecting 14 but received 1
+20191228-01:37:42: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:37:43: Initiated logon request
+20191228-01:37:44: quickfix.SessionException MsgSeqNum too low, expecting 14 but received 1
+20191228-01:37:44: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:37:44: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-01:37:44: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-01:37:44: quickfix.SessionException Logon state is not valid for message (MsgType=5)
+20191228-01:37:44: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=5)
+20191228-01:38:12: Initiated logon request
+20191228-01:38:12: quickfix.SessionException MsgSeqNum too low, expecting 14 but received 1
+20191228-01:38:12: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:38:12: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-01:38:12: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-01:38:14: Initiated logon request
+20191228-01:38:14: quickfix.SessionException MsgSeqNum too low, expecting 14 but received 1
+20191228-01:38:14: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:38:14: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-01:38:14: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-01:38:42: Initiated logon request
+20191228-01:38:42: quickfix.SessionException MsgSeqNum too low, expecting 14 but received 1
+20191228-01:38:42: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:38:42: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-01:38:42: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-01:38:43: Initiated logon request
+20191228-01:38:44: quickfix.SessionException MsgSeqNum too low, expecting 14 but received 1
+20191228-01:38:44: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:38:44: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-01:38:44: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-01:39:12: Initiated logon request
+20191228-01:39:12: quickfix.SessionException MsgSeqNum too low, expecting 14 but received 1
+20191228-01:39:12: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:39:12: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-01:39:12: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-01:39:13: Initiated logon request
+20191228-01:39:14: quickfix.SessionException MsgSeqNum too low, expecting 14 but received 1
+20191228-01:39:14: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:39:14: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-01:39:14: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-01:39:42: Initiated logon request
+20191228-01:39:42: quickfix.SessionException MsgSeqNum too low, expecting 14 but received 1
+20191228-01:39:42: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:39:42: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-01:39:42: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-01:40:32: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-01:40:32: Created session: FIX.4.4:Initiator->Acceptor
+20191228-01:40:34: Initiated logon request
+20191228-01:40:35: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-01:40:35: Received logon
+20191228-01:47:16: Disconnecting: Socket exception (/127.0.0.1:10000): java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
+20191228-01:47:18: Pending connection not established after 2005 ms.
+20191228-01:47:19: java.net.ConnectException during connection to 127.0.0.1/127.0.0.1:10000: java.net.ConnectException: Connection refused: no further information (Next retry in 30000 milliseconds)
+20191228-01:56:15: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-01:56:15: Created session: FIX.4.4:Initiator->Acceptor
+20191228-01:56:18: java.net.ConnectException during connection to 127.0.0.1/127.0.0.1:10000: java.net.ConnectException: Connection refused: no further information (Next retry in 30000 milliseconds)
+20191228-01:56:47: Initiated logon request
+20191228-01:56:47: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-01:56:47: Received logon
+20191228-02:02:39: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-02:02:39: Created session: FIX.4.4:Initiator->Acceptor
+20191228-02:02:41: Initiated logon request
+20191228-02:02:41: quickfix.SessionException MsgSeqNum too low, expecting 20 but received 1
+20191228-02:02:41: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 20 but received 1
+20191228-02:02:41: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-02:02:41: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-02:03:11: Initiated logon request
+20191228-02:03:11: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-02:03:11: Received logon
+20191228-02:03:41: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-02:03:41: Created session: FIX.4.4:Initiator->Acceptor
+20191228-02:03:43: Initiated logon request
+20191228-02:03:43: quickfix.SessionException MsgSeqNum too low, expecting 4 but received 1
+20191228-02:03:43: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 4 but received 1
+20191228-02:03:43: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-02:03:43: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-02:04:13: Initiated logon request
+20191228-02:04:13: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-02:04:13: Received logon
+20191228-02:04:34: Disconnecting: Socket exception (/127.0.0.1:10000): java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
+20191228-02:06:52: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-02:06:52: Created session: FIX.4.4:Initiator->Acceptor
+20191228-02:06:54: Initiated logon request
+20191228-02:06:54: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-02:06:54: Received logon
+20191228-02:08:15: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-02:08:15: Created session: FIX.4.4:Initiator->Acceptor
+20191228-02:08:17: quickfix.SessionException MsgSeqNum too low, expecting 11 but received 1
+20191228-02:08:17: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 11 but received 1
+20191228-02:08:17: Initiated logon request
+20191228-02:08:17: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-02:08:17: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-02:08:47: Initiated logon request
+20191228-02:08:47: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-02:08:47: Received logon
+20191228-02:13:50: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-02:13:50: Created session: FIX.4.4:Initiator->Acceptor
+20191228-02:13:52: Initiated logon request
+20191228-02:13:52: quickfix.SessionException MsgSeqNum too low, expecting 3 but received 1
+20191228-02:13:52: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 3 but received 1
+20191228-02:13:52: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-02:13:52: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-02:14:22: Initiated logon request
+20191228-02:14:22: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-02:14:22: Received logon
+20191228-02:16:09: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-02:16:09: Created session: FIX.4.4:Initiator->Acceptor
+20191228-02:16:11: Initiated logon request
+20191228-02:16:11: quickfix.SessionException MsgSeqNum too low, expecting 6 but received 1
+20191228-02:16:11: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 6 but received 1
+20191228-02:16:11: quickfix.SessionException Logon state is not valid for message (MsgType=2)
+20191228-02:16:11: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=2)
+20191228-02:16:11: quickfix.SessionException Logon state is not valid for message (MsgType=5)
+20191228-02:16:11: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=5)
+20191228-02:16:41: Initiated logon request
+20191228-02:16:41: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-02:16:41: Received logon
+20191228-02:17:09: Disconnecting: Socket exception (/127.0.0.1:10000): java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
+20191228-02:17:12: Pending connection not established after 2006 ms.
+20200101-19:55:21: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200101-19:55:21: Session state is not current; resetting FIX.4.4:Initiator->Acceptor
+20200101-19:55:21: Created session: FIX.4.4:Initiator->Acceptor
+20200101-19:55:24: java.net.ConnectException during connection to 127.0.0.1/127.0.0.1:10000: java.net.ConnectException: Connection refused: no further information (Next retry in 30000 milliseconds)
+20200101-19:56:02: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200101-19:56:02: Created session: FIX.4.4:Initiator->Acceptor
+20200101-19:56:05: java.net.ConnectException during connection to 127.0.0.1/127.0.0.1:10000: java.net.ConnectException: Connection refused: no further information (Next retry in 30000 milliseconds)
+20200101-19:56:35: Pending connection not established after 2002 ms.
+20200101-19:56:36: java.net.ConnectException during connection to 127.0.0.1/127.0.0.1:10000: java.net.ConnectException: Connection refused: no further information (Next retry in 30000 milliseconds)
+20200101-19:56:50: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200101-19:56:50: Created session: FIX.4.4:Initiator->Acceptor
+20200101-19:56:52: Initiated logon request
+20200101-19:56:52: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200101-19:56:52: Received logon
+20200101-19:57:04: Initiated logon request
+20200101-19:57:09: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200101-19:57:09: Created session: FIX.4.4:Initiator->Acceptor
+20200101-19:57:11: Initiated logon request
+20200101-19:57:36: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200101-19:57:36: Created session: FIX.4.4:Initiator->Acceptor
+20200101-19:57:39: Initiated logon request
+20200101-19:57:41: Initiated logon request
+20200101-19:58:09: Initiated logon request
+20200101-19:58:39: Initiated logon request
+20200101-19:58:42: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200101-19:58:42: Created session: FIX.4.4:Initiator->Acceptor
+20200101-19:58:44: Initiated logon request
+20200101-19:59:09: Initiated logon request
+20200101-19:59:14: Initiated logon request
+20200101-19:59:39: Initiated logon request
+20200101-19:59:44: Initiated logon request
+20200101-19:59:46: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200101-19:59:46: Created session: FIX.4.4:Initiator->Acceptor
+20200101-19:59:51: Initiated logon request
+20200101-19:59:59: Session FIX.4.4:Initiator->Acceptor schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200101-19:59:59: Created session: FIX.4.4:Initiator->Acceptor
+20200101-20:00:03: Initiated logon request
+20200101-20:00:09: Initiated logon request
+20200101-20:00:14: Initiated logon request
+20200101-20:00:21: Initiated logon request
+20200101-20:00:33: Initiated logon request
+20200101-20:00:44: Initiated logon request
+20200101-20:00:51: Initiated logon request
+20200101-20:01:14: Initiated logon request
+20200101-20:01:21: Initiated logon request
+20200101-20:01:44: Initiated logon request
+20200101-20:01:51: Initiated logon request
+20200101-20:02:14: Initiated logon request
+20200101-20:02:21: Initiated logon request
+20200101-20:02:45: Initiated logon request
+20200101-20:02:51: Initiated logon request
+20200101-20:03:15: Initiated logon request
+20200101-20:03:21: Initiated logon request
+20200101-20:03:51: Initiated logon request

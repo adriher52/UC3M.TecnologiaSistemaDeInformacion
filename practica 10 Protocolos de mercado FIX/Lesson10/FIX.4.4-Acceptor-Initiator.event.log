@@ -1,0 +1,246 @@
+20191228-01:36:55: Session FIX.4.4:Acceptor->Initiator schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-01:36:55: Created session: FIX.4.4:Acceptor->Initiator
+20191228-01:37:12: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:51677
+20191228-01:37:12: Acceptor heartbeat set to 6 seconds
+20191228-01:37:12: Received logon
+20191228-01:37:12: Responding to Logon request
+20191228-01:37:12: MsgSeqNum too high, expecting 1 but received 14: 8=FIX.4.49=7235=A34=1449=Initiator52=20191228-01:37:12.19856=Acceptor98=0108=610=243
+20191228-01:37:12: Enqueued at pos 14: 8=FIX.4.49=7235=A34=1449=Initiator52=20191228-01:37:12.19856=Acceptor98=0108=610=243
+20191228-01:37:12: Sent ResendRequest FROM: 1 TO: 13
+20191228-01:37:12: Received logout request: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:37:12: Sent logout response
+20191228-01:37:14: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:51678
+20191228-01:37:14: Acceptor heartbeat set to 6 seconds
+20191228-01:37:14: Received logon
+20191228-01:37:14: Responding to Logon request
+20191228-01:37:14: MsgSeqNum too high, expecting 1 but received 14: 8=FIX.4.49=7235=A34=1449=Initiator52=20191228-01:37:14.02056=Acceptor98=0108=610=229
+20191228-01:37:14: Enqueued at pos 14: 8=FIX.4.49=7235=A34=1449=Initiator52=20191228-01:37:14.02056=Acceptor98=0108=610=229
+20191228-01:37:14: Sent ResendRequest FROM: 1 TO: 13
+20191228-01:37:14: Received logout request: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:37:14: Sent logout response
+20191228-01:37:42: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:51679
+20191228-01:37:42: Acceptor heartbeat set to 6 seconds
+20191228-01:37:42: Received logon
+20191228-01:37:42: Responding to Logon request
+20191228-01:37:42: MsgSeqNum too high, expecting 1 but received 16: 8=FIX.4.49=7235=A34=1649=Initiator52=20191228-01:37:42.15356=Acceptor98=0108=610=239
+20191228-01:37:42: Enqueued at pos 16: 8=FIX.4.49=7235=A34=1649=Initiator52=20191228-01:37:42.15356=Acceptor98=0108=610=239
+20191228-01:37:42: Sent ResendRequest FROM: 1 TO: 15
+20191228-01:37:42: Received logout request: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:37:42: Sent logout response
+20191228-01:37:43: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:51680
+20191228-01:37:43: Acceptor heartbeat set to 6 seconds
+20191228-01:37:43: Received logon
+20191228-01:37:43: Responding to Logon request
+20191228-01:37:43: MsgSeqNum too high, expecting 1 but received 16: 8=FIX.4.49=7235=A34=1649=Initiator52=20191228-01:37:43.97956=Acceptor98=0108=610=000
+20191228-01:37:43: Enqueued at pos 16: 8=FIX.4.49=7235=A34=1649=Initiator52=20191228-01:37:43.97956=Acceptor98=0108=610=000
+20191228-01:37:44: Sent ResendRequest FROM: 1 TO: 15
+20191228-01:37:44: Received logout request: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:37:44: Sent logout response
+20191228-01:38:12: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:51684
+20191228-01:38:12: Acceptor heartbeat set to 6 seconds
+20191228-01:38:12: Received logon
+20191228-01:38:12: Responding to Logon request
+20191228-01:38:12: MsgSeqNum too high, expecting 1 but received 18: 8=FIX.4.49=7235=A34=1849=Initiator52=20191228-01:38:12.15156=Acceptor98=0108=610=237
+20191228-01:38:12: Enqueued at pos 18: 8=FIX.4.49=7235=A34=1849=Initiator52=20191228-01:38:12.15156=Acceptor98=0108=610=237
+20191228-01:38:12: Sent ResendRequest FROM: 1 TO: 17
+20191228-01:38:12: Received logout request: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:38:12: Sent logout response
+20191228-01:38:14: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:51685
+20191228-01:38:14: Acceptor heartbeat set to 6 seconds
+20191228-01:38:14: Received logon
+20191228-01:38:14: Responding to Logon request
+20191228-01:38:14: MsgSeqNum too high, expecting 1 but received 18: 8=FIX.4.49=7235=A34=1849=Initiator52=20191228-01:38:13.98456=Acceptor98=0108=610=252
+20191228-01:38:14: Enqueued at pos 18: 8=FIX.4.49=7235=A34=1849=Initiator52=20191228-01:38:13.98456=Acceptor98=0108=610=252
+20191228-01:38:14: Sent ResendRequest FROM: 1 TO: 17
+20191228-01:38:14: Received logout request: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:38:14: Sent logout response
+20191228-01:38:42: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:51691
+20191228-01:38:42: Acceptor heartbeat set to 6 seconds
+20191228-01:38:42: Received logon
+20191228-01:38:42: Responding to Logon request
+20191228-01:38:42: MsgSeqNum too high, expecting 1 but received 20: 8=FIX.4.49=7235=A34=2049=Initiator52=20191228-01:38:42.15256=Acceptor98=0108=610=234
+20191228-01:38:42: Enqueued at pos 20: 8=FIX.4.49=7235=A34=2049=Initiator52=20191228-01:38:42.15256=Acceptor98=0108=610=234
+20191228-01:38:42: Sent ResendRequest FROM: 1 TO: 19
+20191228-01:38:42: Received logout request: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:38:42: Sent logout response
+20191228-01:38:43: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:51692
+20191228-01:38:43: Acceptor heartbeat set to 6 seconds
+20191228-01:38:43: Received logon
+20191228-01:38:43: Responding to Logon request
+20191228-01:38:43: MsgSeqNum too high, expecting 1 but received 20: 8=FIX.4.49=7235=A34=2049=Initiator52=20191228-01:38:43.97356=Acceptor98=0108=610=246
+20191228-01:38:43: Enqueued at pos 20: 8=FIX.4.49=7235=A34=2049=Initiator52=20191228-01:38:43.97356=Acceptor98=0108=610=246
+20191228-01:38:44: Sent ResendRequest FROM: 1 TO: 19
+20191228-01:38:44: Received logout request: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:38:44: Sent logout response
+20191228-01:39:12: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:51696
+20191228-01:39:12: Acceptor heartbeat set to 6 seconds
+20191228-01:39:12: Received logon
+20191228-01:39:12: Responding to Logon request
+20191228-01:39:12: MsgSeqNum too high, expecting 1 but received 22: 8=FIX.4.49=7235=A34=2249=Initiator52=20191228-01:39:12.15256=Acceptor98=0108=610=234
+20191228-01:39:12: Enqueued at pos 22: 8=FIX.4.49=7235=A34=2249=Initiator52=20191228-01:39:12.15256=Acceptor98=0108=610=234
+20191228-01:39:12: Sent ResendRequest FROM: 1 TO: 21
+20191228-01:39:12: Received logout request: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:39:12: Sent logout response
+20191228-01:39:13: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:51697
+20191228-01:39:13: Acceptor heartbeat set to 6 seconds
+20191228-01:39:13: Received logon
+20191228-01:39:13: Responding to Logon request
+20191228-01:39:13: MsgSeqNum too high, expecting 1 but received 22: 8=FIX.4.49=7235=A34=2249=Initiator52=20191228-01:39:13.97256=Acceptor98=0108=610=245
+20191228-01:39:13: Enqueued at pos 22: 8=FIX.4.49=7235=A34=2249=Initiator52=20191228-01:39:13.97256=Acceptor98=0108=610=245
+20191228-01:39:13: Sent ResendRequest FROM: 1 TO: 21
+20191228-01:39:14: Received logout request: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:39:14: Sent logout response
+20191228-01:39:42: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:51700
+20191228-01:39:42: Acceptor heartbeat set to 6 seconds
+20191228-01:39:42: Received logon
+20191228-01:39:42: Responding to Logon request
+20191228-01:39:42: MsgSeqNum too high, expecting 1 but received 24: 8=FIX.4.49=7235=A34=2449=Initiator52=20191228-01:39:42.15156=Acceptor98=0108=610=238
+20191228-01:39:42: Enqueued at pos 24: 8=FIX.4.49=7235=A34=2449=Initiator52=20191228-01:39:42.15156=Acceptor98=0108=610=238
+20191228-01:39:42: Sent ResendRequest FROM: 1 TO: 23
+20191228-01:39:42: Received logout request: MsgSeqNum too low, expecting 14 but received 1
+20191228-01:39:42: Sent logout response
+20191228-01:40:19: Session FIX.4.4:Acceptor->Initiator schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-01:40:19: Created session: FIX.4.4:Acceptor->Initiator
+20191228-01:40:35: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:51741
+20191228-01:40:35: Acceptor heartbeat set to 6 seconds
+20191228-01:40:35: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-01:40:35: Received logon
+20191228-01:40:35: Responding to Logon request
+20191228-01:55:17: Session FIX.4.4:Acceptor->Initiator schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-01:55:17: Created session: FIX.4.4:Acceptor->Initiator
+20191228-01:56:39: Session FIX.4.4:Acceptor->Initiator schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-01:56:39: Created session: FIX.4.4:Acceptor->Initiator
+20191228-01:56:47: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:51867
+20191228-01:56:47: Acceptor heartbeat set to 6 seconds
+20191228-01:56:47: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-01:56:47: Received logon
+20191228-01:56:47: Responding to Logon request
+20191228-01:58:41: Disconnecting: Socket exception (/127.0.0.1:51867): java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
+20191228-02:02:36: Session FIX.4.4:Acceptor->Initiator schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-02:02:36: Created session: FIX.4.4:Acceptor->Initiator
+20191228-02:02:41: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:62846
+20191228-02:02:41: Acceptor heartbeat set to 6 seconds
+20191228-02:02:41: Received logon
+20191228-02:02:41: Responding to Logon request
+20191228-02:02:41: MsgSeqNum too high, expecting 1 but received 20: 8=FIX.4.49=7235=A34=2049=Initiator52=20191228-02:02:41.47556=Acceptor98=0108=610=233
+20191228-02:02:41: Enqueued at pos 20: 8=FIX.4.49=7235=A34=2049=Initiator52=20191228-02:02:41.47556=Acceptor98=0108=610=233
+20191228-02:02:41: Sent ResendRequest FROM: 1 TO: 19
+20191228-02:02:41: Received logout request: MsgSeqNum too low, expecting 20 but received 1
+20191228-02:02:41: Sent logout response
+20191228-02:03:11: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:62849
+20191228-02:03:11: Acceptor heartbeat set to 6 seconds
+20191228-02:03:11: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-02:03:11: Received logon
+20191228-02:03:11: Responding to Logon request
+20191228-02:03:27: Disconnecting: Socket exception (/127.0.0.1:62849): java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
+20191228-02:03:43: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:62863
+20191228-02:03:43: Acceptor heartbeat set to 6 seconds
+20191228-02:03:43: Received logon
+20191228-02:03:43: Responding to Logon request
+20191228-02:03:43: MsgSeqNum too high, expecting 1 but received 4: 8=FIX.4.49=7135=A34=449=Initiator52=20191228-02:03:43.61856=Acceptor98=0108=610=188
+20191228-02:03:43: Enqueued at pos 4: 8=FIX.4.49=7135=A34=449=Initiator52=20191228-02:03:43.61856=Acceptor98=0108=610=188
+20191228-02:03:43: Sent ResendRequest FROM: 1 TO: 3
+20191228-02:03:43: Received logout request: MsgSeqNum too low, expecting 4 but received 1
+20191228-02:03:43: Sent logout response
+20191228-02:04:13: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:62865
+20191228-02:04:13: Acceptor heartbeat set to 6 seconds
+20191228-02:04:13: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-02:04:13: Received logon
+20191228-02:04:13: Responding to Logon request
+20191228-02:06:48: Session FIX.4.4:Acceptor->Initiator schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-02:06:48: Created session: FIX.4.4:Acceptor->Initiator
+20191228-02:06:54: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:62895
+20191228-02:06:54: Acceptor heartbeat set to 6 seconds
+20191228-02:06:54: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-02:06:54: Received logon
+20191228-02:06:54: Responding to Logon request
+20191228-02:07:52: Disconnecting: Socket exception (/127.0.0.1:62895): java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
+20191228-02:08:17: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:62912
+20191228-02:08:17: Acceptor heartbeat set to 6 seconds
+20191228-02:08:17: Received logon
+20191228-02:08:17: Responding to Logon request
+20191228-02:08:17: MsgSeqNum too high, expecting 1 but received 11: 8=FIX.4.49=7235=A34=1149=Initiator52=20191228-02:08:17.85956=Acceptor98=0108=610=248
+20191228-02:08:17: Enqueued at pos 11: 8=FIX.4.49=7235=A34=1149=Initiator52=20191228-02:08:17.85956=Acceptor98=0108=610=248
+20191228-02:08:17: Sent ResendRequest FROM: 1 TO: 10
+20191228-02:08:17: Received logout request: MsgSeqNum too low, expecting 11 but received 1
+20191228-02:08:17: Sent logout response
+20191228-02:08:47: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:62913
+20191228-02:08:47: Acceptor heartbeat set to 6 seconds
+20191228-02:08:47: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-02:08:47: Received logon
+20191228-02:08:47: Responding to Logon request
+20191228-02:08:55: Disconnecting: Socket exception (/127.0.0.1:62913): java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
+20191228-02:13:47: Session FIX.4.4:Acceptor->Initiator schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20191228-02:13:47: Created session: FIX.4.4:Acceptor->Initiator
+20191228-02:13:52: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:63037
+20191228-02:13:52: Acceptor heartbeat set to 6 seconds
+20191228-02:13:52: Received logon
+20191228-02:13:52: Responding to Logon request
+20191228-02:13:52: MsgSeqNum too high, expecting 1 but received 3: 8=FIX.4.49=7135=A34=349=Initiator52=20191228-02:13:52.61056=Acceptor98=0108=610=180
+20191228-02:13:52: Enqueued at pos 3: 8=FIX.4.49=7135=A34=349=Initiator52=20191228-02:13:52.61056=Acceptor98=0108=610=180
+20191228-02:13:52: Sent ResendRequest FROM: 1 TO: 2
+20191228-02:13:52: Received logout request: MsgSeqNum too low, expecting 3 but received 1
+20191228-02:13:52: Sent logout response
+20191228-02:14:22: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:63039
+20191228-02:14:22: Acceptor heartbeat set to 6 seconds
+20191228-02:14:22: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-02:14:22: Received logon
+20191228-02:14:22: Responding to Logon request
+20191228-02:14:48: Disconnecting: Socket exception (/127.0.0.1:63039): java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
+20191228-02:16:11: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:63062
+20191228-02:16:11: Acceptor heartbeat set to 6 seconds
+20191228-02:16:11: Received logon
+20191228-02:16:11: Responding to Logon request
+20191228-02:16:11: MsgSeqNum too high, expecting 1 but received 6: 8=FIX.4.49=7135=A34=649=Initiator52=20191228-02:16:11.83456=Acceptor98=0108=610=189
+20191228-02:16:11: Enqueued at pos 6: 8=FIX.4.49=7135=A34=649=Initiator52=20191228-02:16:11.83456=Acceptor98=0108=610=189
+20191228-02:16:11: Sent ResendRequest FROM: 1 TO: 5
+20191228-02:16:11: Received logout request: MsgSeqNum too low, expecting 6 but received 1
+20191228-02:16:11: Sent logout response
+20191228-02:16:41: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:63065
+20191228-02:16:41: Acceptor heartbeat set to 6 seconds
+20191228-02:16:41: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20191228-02:16:41: Received logon
+20191228-02:16:41: Responding to Logon request
+20200101-19:56:36: Session FIX.4.4:Acceptor->Initiator schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200101-19:56:36: Session state is not current; resetting FIX.4.4:Acceptor->Initiator
+20200101-19:56:36: Created session: FIX.4.4:Acceptor->Initiator
+20200101-19:56:52: Accepting session FIX.4.4:Acceptor->Initiator from /127.0.0.1:51155
+20200101-19:56:52: Acceptor heartbeat set to 6 seconds
+20200101-19:56:52: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200101-19:56:52: Received logon
+20200101-19:56:52: Responding to Logon request
+20200101-19:57:04: Multiple logons/connections for this session are not allowed
+20200101-19:57:11: Multiple logons/connections for this session are not allowed
+20200101-19:57:27: Session FIX.4.4:Acceptor->Initiator schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200101-19:57:27: Created session: FIX.4.4:Acceptor->Initiator
+20200101-19:57:39: Multiple logons/connections for this session are not allowed
+20200101-19:57:41: Multiple logons/connections for this session are not allowed
+20200101-19:58:09: Multiple logons/connections for this session are not allowed
+20200101-19:58:39: Multiple logons/connections for this session are not allowed
+20200101-19:58:44: Multiple logons/connections for this session are not allowed
+20200101-19:59:09: Multiple logons/connections for this session are not allowed
+20200101-19:59:14: Multiple logons/connections for this session are not allowed
+20200101-19:59:34: Session FIX.4.4:Acceptor->Initiator schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200101-19:59:34: Created session: FIX.4.4:Acceptor->Initiator
+20200101-19:59:39: Multiple logons/connections for this session are not allowed
+20200101-19:59:44: Multiple logons/connections for this session are not allowed
+20200101-19:59:51: Multiple logons/connections for this session are not allowed
+20200101-20:00:03: Multiple logons/connections for this session are not allowed
+20200101-20:00:09: Multiple logons/connections for this session are not allowed
+20200101-20:00:14: Multiple logons/connections for this session are not allowed
+20200101-20:00:21: Multiple logons/connections for this session are not allowed
+20200101-20:00:33: Multiple logons/connections for this session are not allowed
+20200101-20:00:44: Multiple logons/connections for this session are not allowed
+20200101-20:00:51: Multiple logons/connections for this session are not allowed
+20200101-20:01:14: Multiple logons/connections for this session are not allowed
+20200101-20:01:21: Multiple logons/connections for this session are not allowed
+20200101-20:01:44: Multiple logons/connections for this session are not allowed
+20200101-20:01:51: Multiple logons/connections for this session are not allowed
+20200101-20:02:14: Multiple logons/connections for this session are not allowed
+20200101-20:02:21: Multiple logons/connections for this session are not allowed
+20200101-20:02:45: Multiple logons/connections for this session are not allowed
+20200101-20:02:51: Multiple logons/connections for this session are not allowed
+20200101-20:03:15: Multiple logons/connections for this session are not allowed
+20200101-20:03:21: Multiple logons/connections for this session are not allowed
+20200101-20:03:51: Multiple logons/connections for this session are not allowed
+20200101-20:07:28: Disconnecting: Socket exception (/127.0.0.1:51155): java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
